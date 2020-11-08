@@ -11,7 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "@dguttman/wolfram-alpha-api": "^1.0.0-rc.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-promise-router": "^4.0.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
