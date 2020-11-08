@@ -1,0 +1,19 @@
+{
+  "name": "aviation-app",
+  "version": "1.0.0",
+  "description": "find airplanes",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "server": "node server.js"
+  },
+  "author": "Rithwik & Arpan",
+  "license": "MIT",
+  "dependencies": {
+    "@dguttman/wolfram-alpha-api": "^1.0.0-rc.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
